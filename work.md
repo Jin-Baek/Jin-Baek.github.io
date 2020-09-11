@@ -3,7 +3,7 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: My Interest 1
+  - title: First thing to do
     image:
       src: /assets/img/work/water.png
       alt: water
