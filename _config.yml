@@ -15,7 +15,7 @@ header:
       slug: /
     - name: Work
     - name: Blog
-    - name: projects
+    - name: Projects
 
 footer:
   show_powered_by: true
